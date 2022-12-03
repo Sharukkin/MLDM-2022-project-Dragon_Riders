@@ -4,6 +4,7 @@ Our team worked on different approaches for current competition.
 
 ### Grigory Kryukov:
 Implemented classical ML algorithms such as Linear Regression (Ridge and Lasso versions), SVR, Decision Trees, Random Forest, XGB regression, etc.
+<br />
 Feature engineering for these models were conducted via nltk library by using diverse computational linguistics methods.
 
 <br />
@@ -21,4 +22,5 @@ Main points concerning the architecture:
 
 ## Plan for further work:
 We want to perform more sophisticated fine-tuning of already implemented models and also try to create some ensembles from them.
+<br />
 Also we would like to try more models for both chosen approaches.
