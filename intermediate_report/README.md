@@ -21,6 +21,6 @@ Main points concerning the architecture:
 <br />
 
 ## Plan for further work:
-We want to perform more sophisticated fine-tuning of already implemented models and also try to create some ensembles from them.
+We want to perform more sophisticated fine-tuning of already implemented models and also try to create some ensembles based on them.
 <br />
 Also we would like to try more models for both chosen approaches.
